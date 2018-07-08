@@ -11,7 +11,7 @@ def login():
 
 @app.route("/user")
 def user():
-    return u"Dê tchau para a copa!"        
+    return u"Dê tchau para a copa!!!!"        
 
 if __name__ == '__main__':
     app.run()
